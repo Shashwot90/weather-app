@@ -18,5 +18,11 @@ body {
     border-radius: 20;
     padding: 40px 35px;
     text-align: center;
-    
+
+}
+
+.dsa {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 20px;
 }
